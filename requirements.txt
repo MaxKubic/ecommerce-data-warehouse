@@ -1,4 +1,4 @@
 pandas
 faker
-mysql-connector-python
 sqlalchemy
+pymysql
