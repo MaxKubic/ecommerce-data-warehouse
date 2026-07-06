@@ -2,3 +2,6 @@ pandas
 faker
 sqlalchemy
 pymysql
+python-dotenv
+streamlit
+plotly
